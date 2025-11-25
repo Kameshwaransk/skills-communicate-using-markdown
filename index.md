@@ -2,9 +2,7 @@
 ## Arun
 ### AK
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+
 
 - [x] List syntax is required
 - [x] This item is complete
@@ -15,3 +13,4 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
